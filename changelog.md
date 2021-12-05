@@ -1,5 +1,13 @@
 ## Changelog
 
+#### v1.0.1 05/12/2021
+
+Adds support for adding spacing between lines without text indentation on the following line.
+
+Adds the following transformation:
+
+- `>` > Spacer (`:`)
+
 #### v1.0.0 05/12/2021
 
 Initial state of the legacy>v3 monster block converter. Currently a script to be stored as a bookmarklet, which is run while on the [Homebrewery editor page](https://homebrewery.naturalcrit.com). The legacy monster block source code is pasted into a browser input window, with the result presented via text window and automatically copied to the clipboard.
