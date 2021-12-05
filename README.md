@@ -15,7 +15,7 @@ A quick JS bookmarklet converter to change Homebrewery Monster blocks from Legac
 
 #### Use
 
-1. Navigate to https://homebrewery.naturalcrit.com/new.
+1. Navigate to https://homebrewery.naturalcrit.com and open the editor page.
 
 2. Click the bookmark created during the installation process.
 
