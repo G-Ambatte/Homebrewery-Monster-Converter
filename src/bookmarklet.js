@@ -6,6 +6,7 @@ if(location.href.substring(0,35)=='https://homebrewery.naturalcrit.com'){
 			{term: "^___(\\s*)^___", text: "{{monster,frame,wide\n"},
 			{term: "^___", text: "{{monster,frame\n"},
 			{term: "(^>)(\\s*)(___)", text:"\n___\n"},
+			{term: "(^>)(?:\\s)?$", text:"\n:\n"},
 			{term: "^>", text: ""}
 		];
 		var outputText = inputText;
