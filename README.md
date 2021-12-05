@@ -24,3 +24,15 @@ A quick JS bookmarklet converter to change Homebrewery Monster blocks from Legac
 4. On completion, a window will appear, informing you that the modified text has been copied to the clipboard, and showing the output text.
 
 5. Paste the clipboard content into your Homebrew editor in the desired location.
+
+## Feedback
+
+If you have any issues or have suggestions for improvements, please raise an Issue on this GitHub project.
+
+## Final Notes
+
+The converter can currently only handle ONE (1) Legacy Monster Block at a time. Attempting to enter the text for more than one Legacy Monster Block will return unexpected results.
+
+Good luck!
+
+\- G
